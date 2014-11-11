@@ -51,7 +51,7 @@ Comming soon.
 
 # Widget 
 
-You can check the shipped example at [client-html/index.html](http://).
+You can check the shipped example at [client-html/index.html](https://github.com/PrudioHQ/prudio-irc/blob/master/client-html/index.html).
 
 Or this quick example `index.html`:
 
