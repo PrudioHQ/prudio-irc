@@ -36,9 +36,3 @@ build/*
 
 # Webstorm
 .idea/*
-
-# Ignore the counter
-utils/counter.dat
-
-# Ignore .env file
-.env
