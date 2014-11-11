@@ -18,7 +18,7 @@ This is the Open Source IRC implementation of [Prudio Live Chat](http://prud.io)
 * A dedicated user to work as a Bot.
 
 ```
-$ git clone REPO
+$ git clone https://github.com/PrudioHQ/prudio-irc.git
 $ npm install
 $ grunt build
 ```
